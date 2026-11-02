@@ -101,9 +101,8 @@ plt.show()
 ## Output:
 <img width="905" height="1171" alt="image" src="https://github.com/user-attachments/assets/870bc3b0-d561-458c-95d2-49d8683404a3" />
 
-## Result:
-Thus the program to implement the linear regression using gradient descent is written and verified using python programming
-
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+
+
